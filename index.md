@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to RC4
 
-You can use the [editor on GitHub](https://github.com/rc-4/slackin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Click here to join our Slack!](https://github.com/rc-4/slackin/edit/master/index.md).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
